@@ -891,7 +891,7 @@ contact
 .form-control {
   display: block;
   height: 3rem;
-  width: 90%;
+  width: 80%;
   margin: 1rem 0;
   font-family: var(--ff-secondary);
   font-size: 1rem;
@@ -902,7 +902,7 @@ contact
   border: transparent;
 }
 .contact-btn {
-  width: 90%;
+  width: 80%;
 }
 .contact-center {
   display: grid;
