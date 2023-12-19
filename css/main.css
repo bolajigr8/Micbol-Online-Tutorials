@@ -862,7 +862,7 @@ contact
 }
 .contact-info p {
   letter-spacing: var(--spacing);
-  max-width: 25rem;
+  max-width: 20rem;
   font-weight: bold;
   font-size: 1rem;
 }
