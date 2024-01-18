@@ -318,7 +318,7 @@ navbar
 ===============
 */
 .nav-btn {
-  font-size: 5rem;
+  font-size: 3rem;
   color: var(--clr-primary-5);
   cursor: pointer;
   position: fixed;
